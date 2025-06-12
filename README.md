@@ -2,7 +2,7 @@
 
 ## Dashboard Display - Main
 
-Dashboard created for job seekers, transitioners, and swappers to learn about the data job market. Using a dataset from 2024 job postings, it provides a single interface displaying the count, median salaries, job posting trends, and information about job titles compared to each other.
+Dashboard created for job seekers, transitioners, and swappers to learn about the data job market. Using a dataset from 2024 job postings, it provides a single interface displaying the count, median salaries, job posting trends, and information about job titles compared to each other. 
 
 ![Dashboard Page 1](/images/P1_Main_1.png)
 
